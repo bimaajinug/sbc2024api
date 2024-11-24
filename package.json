@@ -1,0 +1,25 @@
+{
+  "name": "sbc2024apiauto",
+  "version": "1.0.0",
+  "main": "test.js",
+   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "jsonschema": "^1.4.1",
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mocha": "^10.8.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+  
+}
